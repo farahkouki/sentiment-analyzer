@@ -27,7 +27,20 @@ Il utilise un pipeline classique NLP : **TF-IDF + Logistic Regression**.
 - streamlit  
 
 ---
+🧪 Tester la prédiction
 
+Pour tester le modèle dans la console :
+
+python src/predict.py
+
+
+Tape une phrase et le modèle renverra son sentiment (positif, négatif ou neutre).
+
+🌐 Lancer l’interface Web Streamlit
+streamlit run src/app.py
+
+
+Une page va s’ouvrir dans ton navigateur, et ton IA sera prête à l’emploi ! 🚀🤖
 
 ✨ Auteur
 
@@ -36,6 +49,4 @@ Farah KOUKI — Full-Stack & AI Developer
 
 
 
-=======
-# sentiment-analyzer
->>>>>>> cb8e75b9932ac2c8e158e33c2df3f8a92203c88c
+
