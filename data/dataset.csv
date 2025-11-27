@@ -1,0 +1,19 @@
+text,label
+"I love this movie, it was fantastic!",positive
+"This is terrible, I hate it.",negative
+"It's okay, nothing special.",neutral
+"J'adore ce produit, très bonne qualité.",positive
+"Je déteste ce service.",negative
+"C'est acceptable.",neutral
+"هذا الفيلم رائع جدا",positive
+"هذا أسوأ شيء شاهدته",negative
+"الأمر عادي",neutral
+"I am very happy with the result!",positive
+"This is disappointing.",negative
+"Not bad at all.",neutral
+"Très satisfaite merci !",positive
+"Je ne suis pas contente du tout.",negative
+"Ni bon ni mauvais.",neutral
+"المنتج ممتاز وخدمة رائعة",positive
+"غير راضي عن الشراء",negative
+"الأمر لا بأس به",neutral
