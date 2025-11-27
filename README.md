@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 Multilingual Sentiment Analyzer (FR/EN/AR)
 
 Ce projet IA analyse le sentiment d’une phrase (positif, négatif, neutre) en **trois langues** :
@@ -35,3 +36,6 @@ Farah KOUKI — Full-Stack & AI Developer
 
 
 
+=======
+# sentiment-analyzer
+>>>>>>> cb8e75b9932ac2c8e158e33c2df3f8a92203c88c
